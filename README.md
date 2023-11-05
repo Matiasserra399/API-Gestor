@@ -47,7 +47,7 @@ pipenv run pytest -v
 ```
 
 
-## Ejecutar la API ## pipenv run uvicorn api:app --reloa
+## Ejecutar la API 
 
 ```bash
 pipenv run uvicorn api:app --reload
