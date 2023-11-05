@@ -31,13 +31,29 @@ pytest -v
 ## Para la API 
 
 
-## Instalar  pipenv install fastapi uvicorn pydantic
+## Instalar  
 
-## pipenv install -r requirements.txt
+```bash
+pipenv install fastapi uvicorn pydantic
+pipenv install -r requirements.txt
 
-## Ejecutamos los test ## pipenv run pytest -v
+```
 
-## Ejecutar la API ## pipenv run uvicorn api:app --reload 
+## Ejecutamos los test 
+
+```bash
+pipenv run pytest -v
+
+```
+
+
+## Ejecutar la API ## pipenv run uvicorn api:app --reloa
+
+```bash
+pipenv run uvicorn api:app --reload
+
+```
+
 
 
 
