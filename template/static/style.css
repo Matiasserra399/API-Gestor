@@ -1,0 +1,41 @@
+    body {
+        text-align: center;
+        background-color: black;
+        color: white;
+    }
+
+    .container {
+        margin: 30px auto;
+    }
+
+    header {
+        background-color: black;
+        padding: 20px 0;
+    }
+
+    h1 {
+        color: white;
+        font-size: 36px;
+        /* Tamaño de fuente personalizado */
+        font-family: Arial, sans-serif;
+        /* Fuente personalizada */
+        margin-top: 20px;
+        /* Margen superior personalizado */
+    }
+
+    button {
+        background-color: #0074cc;
+        /* Color de fondo del botón */
+        color: white;
+        /* Color del texto del botón */
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        font-size: 18px;
+        text-decoration: none;
+    }
+
+    img {
+        width: 800px;
+        height: 600px;
+    }
